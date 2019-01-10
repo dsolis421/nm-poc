@@ -6,3 +6,12 @@ body {
 a {
   color: #00B7FF;
 }
+
+.click-to-send {
+  background: #f60;
+  color: #fff;
+  height: 100px;
+  line-height: 100px;
+  text-align: center;
+  width: 300px;
+}
